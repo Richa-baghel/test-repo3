@@ -1,4 +1,4 @@
 class
-{
-hello
-}
+hello 
+line2 
+line3
